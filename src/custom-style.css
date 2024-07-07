@@ -1,0 +1,6 @@
+@import url("observablehq:default.css");
+
+:root {
+    --theme-foreground: transparent,
+    --theme-background: #e5e7eb
+}
